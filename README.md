@@ -46,8 +46,8 @@ Passionate and dedicated software engineering graduate with hands-on experience 
 
 Here are some of my notable projects:
 
-- **React To-Do Goal List**: A full-featured to-do list application built with React and TypeScript. [Repository Link](https://github.com/ainmutaqorrobin/react-todo-goal-list)
-- **Angular Firebase Integration**: An Angular project integrated with Firebase for real-time database and authentication. [Repository Link](https://github.com/ainmutaqorrobin/angular-firebase-project)
+- **React To-Do Goal List**: A full-featured to-do list application built with React and TypeScript. [Repository Link](https://github.com/ainmutaqorrobin/TodoGoalList)
+- **Angular Firebase Integration**: An Angular project integrated with Firebase for real-time database and authentication. [Repository Link](https://github.com/ainmutaqorrobin/RecipeShop)
 - **Express Web Application**: An ExpressJS project integrated with MongoDB for user want to travelling. [Repository Link](https://github.com/ainmutaqorrobin/expressProject)
 - **Node Simple Website**: NodeJS project about farming things developed using only JavaScript. [Repository Link](https://github.com/ainmutaqorrobin/robinFarm)
 
