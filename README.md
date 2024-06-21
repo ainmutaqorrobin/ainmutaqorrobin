@@ -27,6 +27,8 @@ Passionate and dedicated software engineering graduate with hands-on experience 
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Pug](https://img.shields.io/badge/-Pug-A86454?style=flat-square&logo=pug&logoColor=white)
+
 
 
 ---
