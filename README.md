@@ -35,10 +35,8 @@ Passionate and dedicated software engineering graduate with hands-on experience 
 
 ## 📈 GitHub Stats
 
-<div style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ainmutaqorrobin&show_icons=true&hide_border=true&theme=radical" alt="Robin's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ainmutaqorrobin&hide_border=true&theme=radical&langs_count=8&layout=compact" alt="Robin's Top Languages" />
-</div>
+![Robin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ainmutaqorrobin&show_icons=true&hide_border=true&theme=radical)
+![Robin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ainmutaqorrobin&hide_border=true&theme=radical&langs_count=8&layout=compact)
 
 ---
 
