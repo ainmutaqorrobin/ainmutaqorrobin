@@ -29,6 +29,8 @@ Passionate and dedicated software engineering graduate with hands-on experience 
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![Pug](https://img.shields.io/badge/-Pug-A86454?style=flat-square&logo=pug&logoColor=white)
 ![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+![RxJS](https://img.shields.io/badge/-RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-000000?style=flat-square&logo=rest&logoColor=white)
 
 
 ---
