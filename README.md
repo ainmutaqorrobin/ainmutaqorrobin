@@ -30,7 +30,7 @@ Passionate and dedicated software engineering graduate with hands-on experience 
 ![Pug](https://img.shields.io/badge/-Pug-A86454?style=flat-square&logo=pug&logoColor=white)
 ![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
 ![RxJS](https://img.shields.io/badge/-RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
-
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 ---
 
@@ -61,7 +61,7 @@ Here are some of my notable projects:
 
 ## 🌱 Currently Learning
 
-- Advanced backend development with Express and MongoDB
+- Next.js for building server-side rendered React applications
 - Enhancing TypeScript skills for large-scale applications
 
 Feel free to check out my repositories and leave a star if you find something interesting! 😊
