@@ -32,6 +32,7 @@ Passionate and dedicated software engineering graduate with hands-on experience 
 ![RxJS](https://img.shields.io/badge/-RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-0078FF?style=flat-square&logo=cloudinary&logoColor=white)
 
 ---
 
