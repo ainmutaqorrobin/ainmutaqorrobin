@@ -22,6 +22,8 @@ Passionate and dedicated software engineering graduate with hands-on experience 
 ![Robin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ainmutaqorrobin&show_icons=true&hide_border=true&theme=radical)
 ![Robin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ainmutaqorrobin&hide_border=true&theme=radical&langs_count=8&layout=compact)
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ainmutaqorrobin&theme=github-compact&radius=16" height="auto" alt="by fatkhurhhn"/>
+
 ---
 
 ## 📫 How to Reach Me
@@ -29,7 +31,6 @@ Passionate and dedicated software engineering graduate with hands-on experience 
 - LinkedIn: [Robin's LinkedIn Profile](https://www.linkedin.com/in/ainmutaqorrobin/)
 - Email: [ainmutaqorrobin@gmail.com](mailto:ainmutaqorrobin@gmail.com)
 
----
 
 ## 🛠️ Projects & Work
 
