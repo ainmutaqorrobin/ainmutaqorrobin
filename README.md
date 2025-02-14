@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 
-Passionate and dedicated software engineering graduate with hands-on experience in JavaScript front-end frameworks including React and Angular, and back-end development using Express and MongoDB. Proficient in building full-stack applications, with notable projects such as a React to-do goal list utilizing TypeScript and an Angular project integrated with Firebase. Currently expanding backend skills with NestJS and Next.js, focusing on server-side rendering, static site generation, and robust backend architectures. Regular user of GitHub for daily version control, ensuring efficient project collaboration and code management. Eager to contribute to a dynamic team where I can leverage my JavaScript expertise to develop innovative and efficient web solutions.
+Passionate and dedicated software engineering graduate with hands-on experience in JavaScript front-end frameworks including React and Angular, and back-end development using Express and MongoDB. Proficient in building full-stack applications, with notable projects such as a React to-do goal list utilizing TypeScript and an Angular project integrated with Firebase. Currently expanding my expertise in Advanced TypeScript and Advanced React, focusing on scalable architectures, performance optimization, and best practices. Regular user of GitHub for daily version control, ensuring efficient project collaboration and code management. Eager to contribute to a dynamic team where I can leverage my JavaScript expertise to develop innovative and efficient web solutions.
 
 ---
 
@@ -37,12 +37,12 @@ Here are some of my notable projects:
 - **Next.js Blog Project**: A blog application built with Next.js and TypeScript. [Repository Link](https://github.com/ainmutaqorrobin/nextBlog)
 - **Angular Firebase Integration**: An Angular project integrated with Firebase for real-time database and authentication. [Repository Link](https://github.com/ainmutaqorrobin/RecipeShop)
 - **Express Web Application**: An ExpressJS project integrated with MongoDB for user travel experiences. [Repository Link](https://github.com/ainmutaqorrobin/expressProject)
-
+- **Used Car Pricing Application**: NestJS project integrated with SQLite for used car pricing. [Repository Link](https://github.com/ainmutaqorrobin/used-car-pricing)
 ---
 
 ## 🌱 Currently Learning
 
-- NestJS for building scalable and efficient backend applications
+- Advanced React (Performance optimization, best practices, and scalability)
 - Advanced TypeScript techniques for robust application development
 
 Feel free to check out my repositories and leave a star if you find something interesting! 😊
