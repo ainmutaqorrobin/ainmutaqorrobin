@@ -58,7 +58,7 @@ Here are some of my notable projects:
 - **Next.js Blog Project**: A blog application built with Next.js and TypeScript. [Repository Link](https://github.com/ainmutaqorrobin/nextBlog)
 - **Angular Firebase Integration**: An Angular project integrated with Firebase for real-time database and authentication. [Repository Link](https://github.com/ainmutaqorrobin/RecipeShop)
 - **Express Web Application**: An ExpressJS project integrated with MongoDB for user travel experiences. [Repository Link](https://github.com/ainmutaqorrobin/expressProject)
-- **Used Car Pricing Application**: NestJS project integrated with SQLite for used car pricing. [Repository Link](https://github.com/ainmutaqorrobin/used-car-pricing)
+- **NestJs Used Car Pricing Application**: NestJS project integrated with SQLite for used car pricing. [Repository Link](https://github.com/ainmutaqorrobin/used-car-pricing)
 ---
 
 ## 🌱 Currently Learning
