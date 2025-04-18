@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 
-Passionate and dedicated software engineering graduate with hands-on experience in JavaScript front-end frameworks including React and Angular, and back-end development using Express and MongoDB. Proficient in building full-stack applications, with notable projects such as a React to-do goal list utilizing TypeScript and an Angular project integrated with Firebase. Currently expanding my expertise in Advanced TypeScript and Advanced React, focusing on scalable architectures, performance optimization, and best practices. Regular user of GitHub for daily version control, ensuring efficient project collaboration and code management. Eager to contribute to a dynamic team where I can leverage my JavaScript expertise to develop innovative and efficient web solutions.
+Passionate and dedicated software engineering graduate with hands-on experience in JavaScript frameworks. Currently expanding my expertise in Advanced TypeScript and Advanced React, focusing on scalable architectures, performance optimization, and best practices. Regular user of GitHub for daily version control, ensuring efficient project collaboration and code management. Eager to contribute to a dynamic team where I can leverage my JavaScript expertise to develop innovative and efficient web solutions.
 
 ---
 
