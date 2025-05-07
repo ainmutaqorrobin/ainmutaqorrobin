@@ -37,6 +37,9 @@ Passionate and dedicated software engineering graduate with hands-on experience 
 
 ### **Development Tools**
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)  
+
+---
+
 ## 📈 GitHub Stats
 
 ![Robin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ainmutaqorrobin&show_icons=true&hide_border=true&theme=radical)
@@ -46,10 +49,19 @@ Passionate and dedicated software engineering graduate with hands-on experience 
 
 ---
 
+### 📜 Certifications
+
+- ✅ [NestJS: The Complete Developer's Guide (Udemy)](https://www.udemy.com/certificate/UC-1dbc51cf-38bc-4752-a79f-0973d6c22415)
+- ✅ [Next.js 15 & React The Complete Guide (Udemy)](https://www.udemy.com/certificate/UC-efd6ac07-5dd9-4229-bad5-19f16e45e514/)
+
+---
+
 ## 📫 How to Reach Me
 
 - LinkedIn: [Robin's LinkedIn Profile](https://www.linkedin.com/in/ainmutaqorrobin/)
 - Email: [ainmutaqorrobin@gmail.com](mailto:ainmutaqorrobin@gmail.com)
+
+---
 
 ## 🛠️ Projects & Work
 
@@ -59,6 +71,7 @@ Here are some of my notable projects:
 - **Angular Firebase Integration**: An Angular project integrated with Firebase for real-time database and authentication. [Repository Link](https://github.com/ainmutaqorrobin/RecipeShop)
 - **Express Web Application**: An ExpressJS project integrated with MongoDB for user travel experiences. [Repository Link](https://github.com/ainmutaqorrobin/expressProject)
 - **NestJs Used Car Pricing Application**: NestJS project integrated with SQLite for used car pricing. [Repository Link](https://github.com/ainmutaqorrobin/used-car-pricing)
+
 ---
 
 ## 🌱 Currently Learning
