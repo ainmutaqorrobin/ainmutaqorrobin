@@ -27,21 +27,21 @@ Passionate and dedicated software engineering graduate with hands-on experience 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ainmutaqorrobin&theme=github-compact&radius=16" height="auto" alt="by fatkhurhhn"/>
 
----
 
-### 📜 Certifications
 
-- ✅ [NestJS: The Complete Developer's Guide (Udemy)](https://www.udemy.com/certificate/UC-1dbc51cf-38bc-4752-a79f-0973d6c22415)
-- ✅ [Next.js 15 & React The Complete Guide (Udemy)](https://www.udemy.com/certificate/UC-efd6ac07-5dd9-4229-bad5-19f16e45e514/)
+## 📜 Certifications
 
----
+-  [NestJS: The Complete Developer's Guide](https://www.udemy.com/certificate/UC-1dbc51cf-38bc-4752-a79f-0973d6c22415)
+-  [Next.js 15 & React The Complete Guide](https://www.udemy.com/certificate/UC-efd6ac07-5dd9-4229-bad5-19f16e45e514/)
+
+
 
 ## 📫 How to Reach Me
 
 - LinkedIn: [Robin's LinkedIn Profile](https://www.linkedin.com/in/ainmutaqorrobin/)
 - Email: [ainmutaqorrobin@gmail.com](mailto:ainmutaqorrobin@gmail.com)
 
----
+
 
 ## 🛠️ Projects & Work
 
@@ -52,7 +52,6 @@ Here are some of my notable projects:
 - **Express Web Application**: An ExpressJS project integrated with MongoDB for user travel experiences. [Repository Link](https://github.com/ainmutaqorrobin/expressProject)
 - **NestJs Used Car Pricing Application**: NestJS project integrated with SQLite for used car pricing. [Repository Link](https://github.com/ainmutaqorrobin/used-car-pricing)
 
----
 
 ## 🌱 Currently Learning
 
