@@ -19,16 +19,6 @@ Passionate and dedicated software engineering graduate with hands-on experience 
 | ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) |  |  | ![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white) |  |  |
 
 
-
-## 📈 GitHub Stats
-
-![Robin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ainmutaqorrobin&show_icons=true&hide_border=true&theme=radical)
-![Robin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ainmutaqorrobin&hide_border=true&theme=radical&langs_count=8&layout=compact)
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ainmutaqorrobin&theme=github-compact&radius=16" height="auto" alt="by fatkhurhhn"/>
-
-
-
 ## 📜 Certifications
 
 -  [NestJS: The Complete Developer's Guide](https://www.udemy.com/certificate/UC-1dbc51cf-38bc-4752-a79f-0973d6c22415)
