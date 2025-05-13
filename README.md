@@ -23,7 +23,7 @@ Passionate and dedicated software engineering graduate with hands-on experience 
 
 - [NestJS: The Complete Developer's Guide](https://www.udemy.com/certificate/UC-1dbc51cf-38bc-4752-a79f-0973d6c22415)
 - [Next.js 15 & React The Complete Guide](https://www.udemy.com/certificate/UC-efd6ac07-5dd9-4229-bad5-19f16e45e514/)
-- [Advanced React](https://www.udemy.com/certificate/UC-d1d9c4e2-30e9-4b6a-a37e-7e79e4be7498/)
+- [Advanced React: Design System, Design Patterns, Performance](https://www.udemy.com/certificate/UC-d1d9c4e2-30e9-4b6a-a37e-7e79e4be7498/)
 
 
 ## 📫 How to Reach Me
