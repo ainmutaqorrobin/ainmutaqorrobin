@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 
-Passionate and dedicated software engineering graduate with hands-on experience in JavaScript frameworks. Currently expanding my expertise in Advanced TypeScript and Advanced React, focusing on scalable architectures, performance optimization, and best practices. Regular user of GitHub for daily version control, ensuring efficient project collaboration and code management. Eager to contribute to a dynamic team where I can leverage my JavaScript expertise to develop innovative and efficient web solutions.
+Passionate and dedicated software engineering graduate with hands-on experience in modern JavaScript frameworks. Skilled in building scalable and maintainable frontend applications using React, Next.js, and TypeScript. Recently completed Advanced React training, where I focused on performance optimization, component architecture, and best practices. Currently diving into Micro-Frontend architecture to explore how to build modular, independently deployable frontend systems. Eager to grow in a collaborative environment and contribute to building high-quality web solutions.
 
 ---
 
@@ -45,7 +45,7 @@ Here are some of my notable projects:
 
 ## 🌱 Currently Learning
 
-- Advanced React (Performance optimization, best practices, and scalability)
-- Advanced TypeScript techniques for robust application development
+- Micro-Frontend architecture and implementation strategies
+- Deepening knowledge in modular frontend design and independent deployments
 
 Feel free to check out my repositories and leave a star if you find something interesting! 😊
