@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 
-Passionate and dedicated software engineering graduate with hands-on experience in modern JavaScript frameworks. Recently completed Advanced React training, where I focused on performance optimization, component architecture, and best practices. Currently diving into Micro-Frontend architecture to explore how to build modular, independently deployable frontend systems. Eager to grow in a collaborative environment and contribute to building high-quality web solutions.
+Passionate and dedicated software engineering graduate with hands-on experience in modern JavaScript frameworks. Recently completed Advanced React and Micro-Frontend training. Now exploring the DevOps side with Docker and Kubernetes to better understand containerization and deployment workflows. Eager to grow in a collaborative environment and contribute to building high-quality, production-ready web solutions.
 
 ---
 
@@ -38,15 +38,16 @@ Passionate and dedicated software engineering graduate with hands-on experience 
 
 Here are some of my notable projects:
 
-- **Next.js Blog Project**: A blog application built with Next.js and TypeScript. [Repository Link](https://github.com/ainmutaqorrobin/nextBlog)
-- **Angular Firebase Integration**: An Angular project integrated with Firebase for real-time database and authentication. [Repository Link](https://github.com/ainmutaqorrobin/RecipeShop)
-- **Express Web Application**: An ExpressJS project integrated with MongoDB for user travel experiences. [Repository Link](https://github.com/ainmutaqorrobin/expressProject)
+- **MicroFrontends Project**: A Micro-Frontends project build using ReactJS and VueJs. [Repository Link](https://github.com/ainmutaqorrobin/microproject)
 - **NestJs Used Car Pricing Application**: NestJS project integrated with SQLite for used car pricing. [Repository Link](https://github.com/ainmutaqorrobin/used-car-pricing)
+- **Next.js Blog Project**: A blog application built with Next.js and TypeScript. [Repository Link](https://github.com/ainmutaqorrobin/nextBlog)
+- **Express Web Application**: An ExpressJS project integrated with MongoDB for user travel experiences. [Repository Link](https://github.com/ainmutaqorrobin/expressProject)
+- **Angular Firebase Integration**: An Angular project integrated with Firebase for real-time database and authentication. [Repository Link](https://github.com/ainmutaqorrobin/RecipeShop)
 
 
 ## 🌱 Currently Learning
 
-- Micro-Frontend architecture and implementation strategies
-- Deepening knowledge in modular frontend design and independent deployments
+- Docker and containerization fundamentals
+- Kubernetes for orchestration and scalable application deployment
 
 Feel free to check out my repositories and leave a star if you find something interesting! 😊
