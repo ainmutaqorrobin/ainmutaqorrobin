@@ -16,7 +16,7 @@ Passionate and dedicated software engineering graduate with hands-on experience 
 | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=black) | ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) | ![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white) |  | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) |  | ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white) |
 | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) |  | ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) | ![Cloudinary](https://img.shields.io/badge/-Cloudinary-0078FF?style=flat-square&logo=cloudinary&logoColor=white) |  | ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) |
-| ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) |  |  | ![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white) |  |  |
+| ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) |  | ![Convex](https://img.shields.io/badge/-Convex-4B0082?style=flat-square&logo=) | ![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white) |  |  |
 
 
 ## 📜 Certifications
@@ -36,13 +36,12 @@ Passionate and dedicated software engineering graduate with hands-on experience 
 
 ## 🛠️ Projects & Work
 
-Here are some of my notable projects:
-
-- **MicroFrontends Project**: A Micro-Frontends project build using ReactJS and VueJs. [Repository Link](https://github.com/ainmutaqorrobin/microproject)
-- **NestJs Used Car Pricing Application**: NestJS project integrated with SQLite for used car pricing. [Repository Link](https://github.com/ainmutaqorrobin/used-car-pricing)
+- **AI Notes**: A fullstack notes app powered by AI. Built with React and Convex. [Repository Link](https://github.com/ainmutaqorrobin/AI-notes)
+- **MicroFrontends Project**: A modular Micro-Frontend app using ReactJS and Vue.js. [Repository Link](https://github.com/ainmutaqorrobin/microproject)
+- **NestJS Used Car Pricing Application**: Backend app using NestJS and SQLite to calculate used car pricing. [Repository Link](https://github.com/ainmutaqorrobin/used-car-pricing)
 - **Next.js Blog Project**: A blog application built with Next.js and TypeScript. [Repository Link](https://github.com/ainmutaqorrobin/nextBlog)
-- **Express Web Application**: An ExpressJS project integrated with MongoDB for user travel experiences. [Repository Link](https://github.com/ainmutaqorrobin/expressProject)
-- **Angular Firebase Integration**: An Angular project integrated with Firebase for real-time database and authentication. [Repository Link](https://github.com/ainmutaqorrobin/RecipeShop)
+- **Express Web Application**: An Express.js app integrated with MongoDB for user travel experiences. [Repository Link](https://github.com/ainmutaqorrobin/expressProject)
+- **Angular Firebase Integration**: A frontend app built with Angular and integrated with Firebase. [Repository Link](https://github.com/ainmutaqorrobin/RecipeShop)
 
 
 ## 🌱 Currently Learning
