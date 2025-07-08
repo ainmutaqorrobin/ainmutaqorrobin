@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 
-Passionate and dedicated software engineering graduate with hands-on experience in modern JavaScript frameworks. Recently completed Advanced React and Micro-Frontend training. Now exploring the DevOps side with Docker and Kubernetes to better understand containerization and deployment workflows. Eager to grow in a collaborative environment and contribute to building high-quality, production-ready web solutions.
+Passionate and dedicated software engineering graduate with hands-on experience in modern JavaScript frameworks. Recently completed Advanced React and Micro-Frontend training. Now exploring the Microservices including DevOps side with Docker and Kubernetes to better understand containerization and deployment workflows. Eager to grow in a collaborative environment and contribute to building high-quality, production-ready web solutions.
 
 ---
 
@@ -48,5 +48,6 @@ Passionate and dedicated software engineering graduate with hands-on experience 
 
 - Docker and containerization fundamentals
 - Kubernetes for orchestration and scalable application deployment
+- Microservices for scalable applications
 
 Feel free to check out my repositories and leave a star if you find something interesting! 😊
